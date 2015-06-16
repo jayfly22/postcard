@@ -10,6 +10,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    //Just testing out the comments feature
 
     @IBOutlet weak var messageLabel: UILabel!
     @IBOutlet weak var enterNameTextField: UITextField!
